@@ -1,0 +1,10 @@
+C:\Users\mario\Desktop\Tortuga Karina\Tortuga Karina\bin\Debug\Tortuga Karina.exe.config
+C:\Users\mario\Desktop\Tortuga Karina\Tortuga Karina\bin\Debug\Tortuga Karina.exe
+C:\Users\mario\Desktop\Tortuga Karina\Tortuga Karina\bin\Debug\Tortuga Karina.pdb
+C:\Users\mario\Desktop\Tortuga Karina\Tortuga Karina\obj\Debug\Tortuga Karina.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Tortuga Karina\Tortuga Karina\obj\Debug\Tortuga_Karina.Form1.resources
+C:\Users\mario\Desktop\Tortuga Karina\Tortuga Karina\obj\Debug\Tortuga_Karina.Properties.Resources.resources
+C:\Users\mario\Desktop\Tortuga Karina\Tortuga Karina\obj\Debug\Tortuga Karina.csproj.GenerateResource.cache
+C:\Users\mario\Desktop\Tortuga Karina\Tortuga Karina\obj\Debug\Tortuga Karina.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\Tortuga Karina\Tortuga Karina\obj\Debug\Tortuga Karina.exe
+C:\Users\mario\Desktop\Tortuga Karina\Tortuga Karina\obj\Debug\Tortuga Karina.pdb
